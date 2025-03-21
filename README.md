@@ -1,12 +1,7 @@
-- 👋 Hi, I’m @cyberbot28
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-cyberbot28/cyberbot28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I’m @cyberbot28  
+- 👀 I’m interested in embedded systems, robotics, and automation.  
+- 🌱 I’m currently learning STM32 programming, CAN bus communication, and sensorless BLDC motor control.  
+- 💞️ I’m looking to collaborate on projects involving microcontrollers, motor drivers, and wireless communication using ESP-NOW.  
+- 📫 How to reach me: Drop me a message on GitHub!  
+- 😄 Pronouns: He/Him  
+- ⚡ Fun fact: I once built a tug-of-war robot for a competition using custom built motor drivers and tank-style controls!  
