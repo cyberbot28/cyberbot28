@@ -4,4 +4,5 @@
 - 💞️ I’m looking to collaborate on projects involving microcontrollers, motor drivers, and wireless communication using ESP-NOW.  
 - 📫 How to reach me: Drop me a message on GitHub!  
 - 😄 Pronouns: He/Him  
-- ⚡ Fun fact: I once built a tug-of-war robot for a competition using custom built motor drivers and tank-style controls!  
+- ⚡ Fun fact: I once built a tug-of-war robot for a competition using custom built motor drivers and tank-style controls,
+     the controlle i built ouperformed commercial controller in terms of latancy !!  
